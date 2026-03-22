@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Artificial Intelligence",
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "text": "Artificial intelligence is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans. AI research focuses on building systems that can perform tasks such as learning, reasoning, problem solving, perception, and language understanding."
+  },
+  {
+    "id": 2,
+    "title": "Machine Learning",
+    "source": "https://en.wikipedia.org/wiki/Machine_learning",
+    "text": "Machine learning is a field of artificial intelligence that uses statistical techniques to give computer systems the ability to learn from data without being explicitly programmed. It is widely used in applications such as recommendation systems and fraud detection."
+  },
+  {
+    "id": 3,
+    "title": "Deep Learning",
+    "source": "https://en.wikipedia.org/wiki/Deep_learning",
+    "text": "Deep learning is a subset of machine learning that uses neural networks with multiple layers. It is particularly useful for tasks such as image recognition, speech processing, and natural language understanding."
+  },
+  {
+    "id": 4,
+    "title": "Neural Networks",
+    "source": "https://en.wikipedia.org/wiki/Artificial_neural_network",
+    "text": "Artificial neural networks are computing systems inspired by the biological neural networks of animal brains. They consist of layers of interconnected nodes and are used for pattern recognition and predictive modeling."
+  },
+  {
+    "id": 5,
+    "title": "Natural Language Processing",
+    "source": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "text": "Natural language processing is a field of artificial intelligence that focuses on the interaction between computers and human language. It enables machines to read, understand, and generate human language."
+  },
+  {
+    "id": 6,
+    "title": "Computer Vision",
+    "source": "https://en.wikipedia.org/wiki/Computer_vision",
+    "text": "Computer vision is an interdisciplinary field that deals with how computers can gain high level understanding from digital images or videos. It is widely used in facial recognition, autonomous vehicles, and medical imaging."
+  },
+  {
+    "id": 7,
+    "title": "Supervised Learning",
+    "source": "https://en.wikipedia.org/wiki/Supervised_learning",
+    "text": "Supervised learning is a type of machine learning where a model is trained on labeled data. The algorithm learns to map inputs to outputs based on example input output pairs."
+  },
+  {
+    "id": 8,
+    "title": "Unsupervised Learning",
+    "source": "https://en.wikipedia.org/wiki/Unsupervised_learning",
+    "text": "Unsupervised learning involves training a model on data without labeled responses. The system tries to find patterns or groupings in the data automatically."
+  },
+  {
+    "id": 9,
+    "title": "Reinforcement Learning",
+    "source": "https://en.wikipedia.org/wiki/Reinforcement_learning",
+    "text": "Reinforcement learning is an area of machine learning where an agent learns to make decisions by performing actions and receiving rewards or penalties."
+  },
+  {
+    "id": 10,
+    "title": "Transformers",
+    "source": "https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)",
+    "text": "Transformers are deep learning models that use self attention mechanisms to process sequences of data. They are widely used in natural language processing tasks."
+  },
+  {
+    "id": 11,
+    "title": "Large Language Models",
+    "source": "https://en.wikipedia.org/wiki/Large_language_model",
+    "text": "Large language models are machine learning models trained on vast amounts of text data to understand and generate human language. They are used in chatbots and text generation systems."
+  },
+  {
+    "id": 12,
+    "title": "Python Programming",
+    "source": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+    "text": "Python is a high level programming language known for its simplicity and readability. It is widely used in data science, web development, and artificial intelligence."
+  },
+  {
+    "id": 13,
+    "title": "Flask Framework",
+    "source": "https://en.wikipedia.org/wiki/Flask_(web_framework)",
+    "text": "Flask is a lightweight web framework for Python. It is designed to make getting started quick and easy, with the ability to scale up to complex applications."
+  },
+  {
+    "id": 14,
+    "title": "FastAPI",
+    "source": "https://fastapi.tiangolo.com/",
+    "text": "FastAPI is a modern web framework for building APIs with Python. It is based on standard Python type hints and provides high performance and easy development."
+  },
+  {
+    "id": 15,
+    "title": "Data Science",
+    "source": "https://en.wikipedia.org/wiki/Data_science",
+    "text": "Data science is an interdisciplinary field that uses scientific methods, processes, and systems to extract knowledge and insights from structured and unstructured data."
+  },
+  {
+    "id": 16,
+    "title": "Cloud Computing",
+    "source": "https://en.wikipedia.org/wiki/Cloud_computing",
+    "text": "Cloud computing is the delivery of computing services over the internet, including storage, processing power, and networking. It enables scalable and flexible computing resources."
+  },
+  {
+    "id": 17,
+    "title": "AWS Cloud",
+    "source": "https://aws.amazon.com/",
+    "text": "Amazon Web Services is a cloud computing platform that offers a wide range of services including computing power, storage, and machine learning tools."
+  },
+  {
+    "id": 18,
+    "title": "Big Data",
+    "source": "https://en.wikipedia.org/wiki/Big_data",
+    "text": "Big data refers to extremely large datasets that may be analyzed computationally to reveal patterns, trends, and associations, especially relating to human behavior and interactions."
+  },
+  {
+    "id": 19,
+    "title": "Search Engines",
+    "source": "https://en.wikipedia.org/wiki/Search_engine",
+    "text": "A search engine is a software system designed to carry out web searches. It searches the web in a systematic way for particular information specified in a textual query."
+  },
+  {
+    "id": 20,
+    "title": "Information Retrieval",
+    "source": "https://en.wikipedia.org/wiki/Information_retrieval",
+    "text": "Information retrieval is the activity of obtaining information system resources that are relevant to an information need from a collection of information resources."
+  }
+]
