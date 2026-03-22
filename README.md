@@ -33,3 +33,20 @@ The search engine highlights query terms directly in the results, allowing users
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
+
+## Corpus Description
+
+The corpus consists of 20 real documents related to artificial intelligence and machine learning.
+
+The documents were collected from reliable sources such as:
+- Wikipedia
+- Technical documentation
+- Online educational resources
+
+Each document contains at least 50 words and includes a source link.
+
+The corpus is stored in `corpus.json`, where each document includes:
+- ID
+- Title
+- Source
+- Text content
